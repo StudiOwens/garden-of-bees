@@ -3,7 +3,8 @@
 	Game Core
     
 	Author:         Stephen R. Owens - www.studio-owens.com
-	Copyright:      Copyright (c) 2014 Stephen R. Owens
+        Copyright:      Copyright (c) 2014 Stephen R. Owens
+	License:        The MIT License (MIT)
 	Last Update:    2009-01-09 22:22
 	Created:        2008-08-09
 */
