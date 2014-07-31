@@ -3,7 +3,7 @@
 	Hero
     
 	Author:         Stephen R. Owens - www.studio-owens.com
-    Copyright:      Copyright (c) 2014 Stephen R. Owens
+	Copyright:      Copyright (c) 2014 Stephen R. Owens
 	Last Update:    2009-01-08 18:12
 	Created:        2008-08-09
 */
