@@ -3,7 +3,8 @@
 	Trigger Events by the Hero
     
 	Author:         Stephen R. Owens - www.studio-owens.com
-	Copyright:      Copyright (c) 2014 Stephen R. Owens
+        Copyright:      Copyright (c) 2014 Stephen R. Owens
+	License:        The MIT License (MIT)
 	Last Update:    2008-09-07 07:52
 	Created:        2008-08-09
 */
