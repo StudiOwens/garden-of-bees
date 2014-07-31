@@ -4,6 +4,7 @@
     
 	Author:         Stephen R. Owens - www.studio-owens.com
         Copyright:      Copyright (c) 2014 Stephen R. Owens
+	License:        The MIT License (MIT)
 	Last Update:    2009-01-07 20:36
 	Created:        2008-08-09
 */
