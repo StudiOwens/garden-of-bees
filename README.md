@@ -8,4 +8,6 @@ These are the Flash ActionScript 2 class files that were used to create the Gard
 How To Use
 -------------
 
-I'll try to upload a demo .FLA file that shows how the class files are used to construct the game. The demo file would also be useful as a starting platform to build a new game.
+Adobe Flash is done. Stick a fork in it.
+
+https://www.adobe.com/products/flashplayer/end-of-life.html
